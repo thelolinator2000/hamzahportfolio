@@ -11,3 +11,8 @@
 ### Copyright
 - Wreck-It Games - Game Logos (I made them, but they are owned by W-IG).
 - html5up - Design
+
+### External Links
+- [Wreck-It Games](wreck-it-games.weebly.com)
+- [HTML5 UP!](https://html5up.net/)
+- [Brackets](http://brackets.io/)
