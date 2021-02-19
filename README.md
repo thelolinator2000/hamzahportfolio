@@ -6,7 +6,7 @@
 - All you have to do it change the path of install to the directory you want the project to be in so you can edit it and make it your own.
 
 ##### The project can also be downloaded using the source code zip file.
-- All you have to do is extract it to the directory you want the project to be in **and go ham**.
+- All you have to do is extract it to the directory you want the project to be in **and edit it to your liking.**
 
 ### Copyright
 - Wreck-It Games - Game Logos (I made them, but they are owned by W-IG).
